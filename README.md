@@ -1,8 +1,9 @@
-## Dependencies
-beautifulsoup4
-requests
+# Dependencies
+-beautifulsoup4
+-requests
 
-## Installation
+# Installation
+```
 pip install -r requirements.txt
 python kinielak.py
-
+```
